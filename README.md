@@ -1,5 +1,21 @@
-# 💫 About Me:
-## 🚧 Currently Working On<br><br>- 🔐 A CRM system with role-based access control (React + Node.js + JWT)<br>- 📊 Custom dashboards with real-time charts and filters<br>- 🧩 Building reusable components for scalable web apps<br><br>---<br><br>## 🤝 Collaborated On<br><br>- 🧠 Internal tools for automation and team productivity  <br>- 📦 Backend APIs for lead management and authentication  <br>- 🧪 UI/UX enhancements using Tailwind and component libraries  <br><br>---<br><br>## 📚 Currently Learning<br><br>- 🕸️ GraphQL & Prisma  <br>- 📲 Mobile-first responsive design with Tailwind CSS<br><br>---<br><br>## 💬 Ask Me About<br><br>- React / Node.js / Express / MongoDB  <br>- Creating reusable components and layouts  <br>- Dashboard development and chart integrations (ApexCharts, Recharts)  <br>- Auth systems using JWT and session-based logic  <br><br>---<br><br>## ⚡ Fun Fact<br><br>I once built a full-stack dashboard in **48 hours**—fueled entirely by JavaScript and coffee ☕!<br>
+<h1 align="center">Hi 👋, I'm Jai</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jai-jayapalan&label=Profile%20views&color=0e75b6&style=flat" alt="jai-jayapalan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jai-jayapalan" alt="jai-jayapalan" /></a> </p>
+
+- 🔭 I’m currently working on **crm**
+
+- 🌱 I’m currently learning **Nextjs, Springboot, Django**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-six-plum-38.vercel.app/](https://portfolio-six-plum-38.vercel.app/)
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **jaijayathilak@gmail.com**
+
+- ⚡ Fun fact **I debug faster with coffee ☕ than without it.**
 
 
 ## 🌐 Socials:
