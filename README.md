@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jai-jayapalan&label=Profile%20views&color=0e75b6&style=flat" alt="jai-jayapalan" /> </p>
 
-- 🔭 I’m currently working on **crm**
-
-- 🌱 I’m currently learning **Nextjs, Springboot, Django**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-six-plum-38.vercel.app/](https://portfolio-six-plum-38.vercel.app/)
 
